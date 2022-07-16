@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechSavvyHunter
 - 👀 I’m interested in Python Programming 
 - 🌱 I’m currently learning Python Programming  
-- 💞️ I’m looking to collaborate on networking 
+- 💞️ I’m looking to acquire work in technical service assistance (work from home).  
 - 📫 You can reach me at alphaxy485@gmail.com
 
 <!---
